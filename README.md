@@ -10,7 +10,7 @@
 |-------------------------|-----------|
 | Proxyscrape Free Proxy  | ✅        |
 | Private Proxy           | ✅        |
-| SOCKS5 Proxy            | ✅        |
+| NO Proxy            | ✅        |
 
 
 - Auto Transfer to Random Wallet

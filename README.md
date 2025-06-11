@@ -11,3 +11,9 @@
 - Multi-Account Support
 - Easy Configuration
 - Suport VPS & Termux
+
+🖥️ Installation `Repo`
+````
+git clone https://github.com/ZonaAirdrop/Turnkeyyy.git
+cd Turnkeyyy
+````

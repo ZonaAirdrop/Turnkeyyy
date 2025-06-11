@@ -10,7 +10,7 @@ const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 class Turnkey {
   constructor() {
     this.RPC_URL = "https://ethereum-sepolia-rpc.publicnode.com";
-    this.ERC20_CONTRACT_ABI = JSON.parse(`[
+    this.ERC20_CONTRACT_ABI = JSON.private.key(`[
       {"type":"function","name":"balanceOf","stateMutability":"view","inputs":[{"name":"address","type":"address"}],"outputs":[{"name":"","type":"uint256"}]}
     ]`);
     this.proxies = [];

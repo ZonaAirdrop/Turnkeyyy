@@ -4,9 +4,12 @@
 
 * Auto Fetch Wallet Info
 - Supports 3 Proxy Modes:
-- Proxyscrape Free Proxy
-- Private Proxy
-- No Proxy
+| Proxy Mode              | Supported          |
+| ----------------------- | ------------------ |
+| Proxyscrape Free Proxy  | ✅                 |
+| Private Proxy           | ✅                 |
+| SOCKS5 Proxy            | ✅                 |
+
 - Auto Transfer to Random Wallet
 - Multi-Account Support
 - Easy Configuration

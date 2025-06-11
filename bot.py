@@ -36,10 +36,10 @@ class Turnkey:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Turnkey{Fore.BLUE + Style.BRIGHT} Automation Bot
+        {Fore.GREEN + Style.BRIGHT}Turnkey{Fore.BLUE + Style.BRIGHT} Automatic  Bot
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Creator {Fore.YELLOW + Style.BRIGHT}<YetiDAO X Cryptodai3>
+        {Fore.GREEN + Style.BRIGHT}Creator {Fore.YELLOW + Style.BRIGHT}<ZONA AIRDROP>
             """
         )
 

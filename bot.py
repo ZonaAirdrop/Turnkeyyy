@@ -239,7 +239,7 @@ class Turnkey:
         
         while True:
             try:
-                max_amount = float(input(f"{Fore.YELLOW + Style.BRIGHT}Enter Max TX Amount ( ETH Sepolia ) [1 or 0.01 or 0.001, etc in decimals] -> {Style.RESET_ALL}").strip())
+                max_amount = float(input(f"{Fore.YELLOW + Style.BRIGHT}Enter Max TX Amount ( ETH Sepolia ) [1 or 0.001 or 0.002, etc in decimals] -> {Style.RESET_ALL}").strip())
                 if max_amount >= min_amount:
                     self.max_amount = max_amount
                     break

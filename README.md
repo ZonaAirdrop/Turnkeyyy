@@ -4,7 +4,7 @@
 
 * Auto Fetch Wallet Info
 
-**Supports 3 Proxy Modes:**
+* **Supports 3 Proxy Modes:**
 
 | Proxy Mode              | Supported |
 |-------------------------|-----------|

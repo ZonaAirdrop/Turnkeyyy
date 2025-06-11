@@ -29,3 +29,10 @@ pip install -r requirements.txt
   your_private_key_1
   your_private_key_2
   ```
+* `proxy.txt` — Add proxies like this: (Optional proky)
+
+  ```text
+  ip:port
+  http://ip:port
+  http://user:pass@ip:port
+  ```

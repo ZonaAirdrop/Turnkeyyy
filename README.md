@@ -17,3 +17,7 @@
 git clone https://github.com/ZonaAirdrop/Turnkeyyy.git
 cd Turnkeyyy
 ````
+🔖 Install dependencies
+````
+pip install -r requirements.txt
+````

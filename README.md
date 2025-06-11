@@ -36,3 +36,7 @@ pip install -r requirements.txt
   http://ip:port
   http://user:pass@ip:port
   ```
+🤖 Runing Bot 
+````
+python3 bot.py
+````

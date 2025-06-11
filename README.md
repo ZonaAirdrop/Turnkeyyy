@@ -46,3 +46,5 @@ pip install -r requirements.txt
 ````
 python3 bot.py
 ````
+- Sepolia Deposit to your account if it is not enough
+- 👉 Join Chanel (Optional) https://t.me/ZonaAirdr0p

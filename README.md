@@ -21,3 +21,11 @@ cd Turnkeyyy
 ````
 pip install -r requirements.txt
 ````
+📝 Configuration
+
+* `accounts.txt` — Add one private key per line:
+
+  ```text
+  your_private_key_1
+  your_private_key_2
+  ```
